@@ -1,0 +1,1 @@
+Sitemap: https://kmankinen.github.io/fastpages-template/sitemap.xml
